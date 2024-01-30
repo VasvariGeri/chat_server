@@ -6,3 +6,4 @@
 *.sh
 *.yml
 Dockerfile
+.DS_Store
